@@ -1,0 +1,9 @@
+C:\Perfect Mobile\MobiApi\MobiTech\Model\bin\Debug\netcoreapp3.1\Model.deps.json
+C:\Perfect Mobile\MobiApi\MobiTech\Model\bin\Debug\netcoreapp3.1\Model.dll
+C:\Perfect Mobile\MobiApi\MobiTech\Model\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Perfect Mobile\MobiApi\MobiTech\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache
+C:\Perfect Mobile\MobiApi\MobiTech\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
+C:\Perfect Mobile\MobiApi\MobiTech\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs
+C:\Perfect Mobile\MobiApi\MobiTech\Model\obj\Debug\netcoreapp3.1\Model.dll
+C:\Perfect Mobile\MobiApi\MobiTech\Model\obj\Debug\netcoreapp3.1\Model.pdb
+C:\Perfect Mobile\MobiApi\MobiTech\Model\obj\Debug\netcoreapp3.1\Model.csprojAssemblyReference.cache
